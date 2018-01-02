@@ -1,6 +1,6 @@
 {
   "name": "lookupfield",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Lookup Input component allows filling textfields requiring lookups from a data source",
   "main": "dist/index.js",
   "scripts": {

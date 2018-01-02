@@ -162,4 +162,4 @@ LookupField.propTypes = {
   dataSource : PropTypes.array.isRequired,
   isVerySmart : PropTypes.bool
 };
-module.exports = LookupField;
+export default LookupField;
